@@ -7,7 +7,7 @@ This is a course project in Python for processing the CIFAR-10 dataset.
 1. **Clone the repository**
 
     ```bash
-    git clone <https://github.com/gimi-bartmoss/cifar-10>
+    git clone https://github.com/gimi-bartmoss/cifar-10
     cd cifar-10
     ```
 
